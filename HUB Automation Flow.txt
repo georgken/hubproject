@@ -1,0 +1,13 @@
+COGNOS
+1) Read the RequestFile.xls and filter all Dissable requests
+2) Create the SQL file with all BRID to be dissabled
+3) Execute SQL statements
+4) Execute SQL statements
+5) Confirm BRID dissabled
+
+Actuate
+1) Read the RequestFile.xls and filter all Dissable requests
+2) Create the BRID file
+3) Call PowerShell Copy-Item to copy the file on server
+4) Call Java command via cmd interface on the Remote server
+
